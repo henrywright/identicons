@@ -1,5 +1,7 @@
 # Identicons
 
+[![Build Status](https://travis-ci.org/henrywright/identicons.svg?branch=master)](https://travis-ci.org/henrywright/identicons)
+
 This WordPress plugin will generate an identicon for each user. Each identicon is highly likely to be unique.
 
 ## Screenshots
